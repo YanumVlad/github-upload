@@ -1,0 +1,11 @@
+C:\Windows\System32\Tasks\KMSAutoNet     פאיכ
+C:\Users\Windows 7\AppData\Local\Temp\KMSAutoNet.tmp
+C:\ProgramData\KMSAutoS
+
+
+C:\Windows\AAct_Tools
+C:\Windows\System32\Tasks\AAct  פאיכ
+
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\amtlib.dll
+C:\Program Files (x86)\TeamViewer
+C:\Program Files (x86)\TeamViewer\TeamViewer.exe
